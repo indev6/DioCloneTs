@@ -1,0 +1,7 @@
+Convertando projeto de java script para typescript
+
+instalar @types/node @types/react @types/react-dom @types/jest @types/styled-components -D
+
+Funciona em ambiente de desenvolvimento
+
+inciando npx tsc --init
